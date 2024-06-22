@@ -9,7 +9,7 @@ const fontSans = FontSans({
   variable: "--font-sans",
 });
 export const metadata: Metadata = {
-  title: "Aliments",
+  title: "App Info-Nutrition",
   description: "Chercher des Aliments...",
 };
 
